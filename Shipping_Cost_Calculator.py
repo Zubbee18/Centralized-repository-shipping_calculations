@@ -1,5 +1,4 @@
- # Here is a new update by Zubbee18
- # Here is another update by Zubbee18
+ # Here is a new update by Zubbe
 
 # Shipping Cost Calculator
 
